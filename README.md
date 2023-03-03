@@ -3,8 +3,8 @@
   
   <h2> A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.<h2/>
     
- ![modelagem](https://user-images.githubusercontent.com/47828514/222542649-bd6adc59-6c40-4ea9-adfb-00158b762d96.png)
-    
+![modelagem](https://user-images.githubusercontent.com/47828514/222594632-20c14f63-189b-4130-80a5-7dcf0cbb13d7.png)
+
     
   <h4> Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo: <h4/>
     
